@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Justin Pickard Darksky Weather
-Plugin URI: http://github.com/jpickard/justinpickarddarkskyweather
+Plugin URI: https://github.com/jwpick/JustinPickardDarkSkyWeather
 Description: Reads the DarkSky REST API and Provides a shortcode and widget. Also does Google Reverse Goecoding.
 Version: 1.0
 Author: Justin Pickard - Credit to Dr. Jeffry Babb
-Author URI: http://github.com/jpickard
+Author URI: https://github.com/jwpick
 Text Domain: justinpickard-plugin
 License: GPLv3
  */
